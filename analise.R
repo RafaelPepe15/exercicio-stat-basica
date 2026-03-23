@@ -12,3 +12,5 @@ soma <- sum(x)
 
 print(desvio_padrao)
 print(soma)
+
+1+1
